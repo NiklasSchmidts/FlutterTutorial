@@ -1,0 +1,7 @@
+flutter sdk
+path flutter/bin
+andriod studio + handy anlegen + tyramisu
+comand line sdk + flutter doctor --andorid-license
+vs code + flutter extention
+über view neue application anlegen 
+über debug starten
